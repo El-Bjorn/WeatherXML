@@ -1,2 +1,2 @@
 # WeatherXML
-Perl, Bash & Objective-C working together to reading an XML weather report, do some database stuff, etc..
+Perl, Bash & Objective-C working together to read an XML weather report, parse it, read/write to DB, etc...
